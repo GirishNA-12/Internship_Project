@@ -1,0 +1,9 @@
+lib
+share
+etc
+lib64
+bin
+include
+session.vim
+training-data
+./model/qa_model.keras
